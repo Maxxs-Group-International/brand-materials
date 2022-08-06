@@ -1,6 +1,5 @@
 
 # Node.js Tools for Visual Studio
-.ntvs_analysis.dat
 node_modules/
 
 # User Define
@@ -8,5 +7,10 @@ node_modules/
 
 # exclude folders
 customers/
+_customers/
 partners/
+_partners/
 competitor/
+_competitor/
+maxxs-co/
+_maxxs-co/
